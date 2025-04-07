@@ -135,7 +135,7 @@ export default function PhilosophersVoyage() {
         }
             <header>
                 <h1>The Philosopher's Voyage</h1>
-                <img src={cthulu} className="header-image"/>
+                <img src={cthulu} className="header-image" alt="Cthulu rises from the sea as a boat full of philosphers sails nearby."/>
                 <p>In a parallel universe you have been tasked with sailing a host of philosophers to Baghdad for a symposium. Cthulhu appears from the depths of the sea and says you must correctly guess philosophical words. If you get a word wrong, someone dies. At least two thinkers must remain alive.</p>
             </header>
 
